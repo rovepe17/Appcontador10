@@ -1,0 +1,6 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\bin\Debug\Appcontador10.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\bin\Debug\Appcontador10.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\bin\Debug\Appcontador10.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\obj\Debug\Appcontador10.csprojResolveAssemblyReference.cache
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\obj\Debug\Appcontador10.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appcontador10\Appcontador10\obj\Debug\Appcontador10.pdb
